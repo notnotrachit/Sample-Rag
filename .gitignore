@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Streamlit
+.cache/
+.streamlit/
+
+.env
