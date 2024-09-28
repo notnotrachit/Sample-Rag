@@ -88,6 +88,8 @@ Run the following command in the terminal:
 - Create a Supabase project and enable **Storage** for storing images.
 - Set up **Supabase Vector** (or `vecs`) to store vector embeddings for semantic search.
 
+
+test
 ### Azure OpenAI
 
 - Sign up for Azure OpenAI and obtain your API key and endpoint.
